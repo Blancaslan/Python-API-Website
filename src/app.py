@@ -31,7 +31,7 @@ def Post():
 def connect():
   mydb = mysql.connector.connect(
     host="localhost",
-    user="dennis1",
+    user="dennisceker",
     password="0987654321",
     database="users"
   )
